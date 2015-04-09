@@ -1,5 +1,5 @@
 ---
-title       : 
+title       : Slidify Demo
 subtitle    : 
 author      : 
 job         : 
